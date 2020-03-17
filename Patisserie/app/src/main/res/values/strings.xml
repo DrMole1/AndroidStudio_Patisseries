@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Patisserie</string>
+
+    <string name="descImageView">Image Patisserie</string>
+    <string name="textNom">Nom Patisserie</string>
+    <string name="textDesc">Description Patisserie</string>
+
+    <string name="dorayaki">Dorayaki</string>
+    <string name="gaufre">Gaufre</string>
+    <string name="macaron">Macaron</string>
+    <string name="millefeuille">Millefeuille</string>
+    <string name="muffin">Muffin</string>
+
+    <string name="textDorayaki">Le dorayaki (どら焼き) est une pâtisserie japonaise. En japonais, dora signifie « gong », et cela expliquerait donc le nom de la pâtisserie. </string>
+    <string name="textGaufre">Une gaufre est un mets de pâte légère cuite entre deux plaques métalliques, articulées entre elles par une ou des charnières, ornées de motifs qui s impriment dans la pâte et donnent à la pâtisserie sa forme caractéristique. </string>
+    <string name="textMacaron">Le macaron est un petit gâteau à l amande, granuleux et moelleux, à la forme arrondie, d environ 3 à 5 cm de diamètre, dérivé de la meringue. </string>
+    <string name="textMillefeuille">Un mille-feuille, ou millefeuille, est une pièce de pâtisserie faite de trois couches de pâte feuilletée et deux couches de crème pâtissière. Le dessus est glacé avec du sucre glace ou du fondant.</string>
+    <string name="textMuffin">Les muffins sont de petits gâteaux individuels s apparentant aux madeleines. Apparus au pays de Galles aux alentours du XIe siècle, ils sont très répandus dans les pays anglo-saxons, principalement aux États-Unis.</string>
+
+    <string name="back">Back</string>
+</resources>
